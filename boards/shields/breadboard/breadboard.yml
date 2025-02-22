@@ -1,6 +1,6 @@
 file_format: "1"
-id: bat43
-name: BAT43
+id: breadboard
+name: BREADBOARD
 type: shield
 url: https://kbd.dailycraft.jp/bat43/
 requires: [pro_micro]
